@@ -1,0 +1,26 @@
+Real-Time LED Control System
+
+Creator: Karthikeyan
+
+TinkerCad Link
+Real-Time LED Control System
+
+https://www.tinkercad.com/things/iLBqrKaIRqr-real-time-led-control-system-using-simulator/editel
+
+
+Overview
+This Arduino project controls two LEDs with two buttons. 
+Button 1 toggles the blink rate between 1 Hz and 2 Hz. 
+Button 2 switches the active LED between red and green.
+
+Components
+Arduino board
+Red LED
+Green LED
+2 resistors (220Ω)
+2 push buttons
+2 pull-down resistors (10kΩ)
+
+
+Code
+Refer to the source code file for implementation details.
